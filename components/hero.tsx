@@ -20,11 +20,11 @@ export function Hero() {
                 <br />
                 Koodaak
               </h1>
-              <p className="text-lg md:text-xl text-muted-foreground font-mono">Cyber Security Specialist</p>
+              <p className="text-lg md:text-xl text-muted-foreground font-mono">Cyber Security Specialist || QA Engineering   </p>
             </div>
 
             <p className="text-base md:text-lg text-muted-foreground max-w-2xl leading-relaxed text-pretty">
-              With over 4 years of experience in cybersecurity, I have been working as a web penetration testing
+              With over 5 years of experience in cybersecurity, I have been working as a web penetration testing
               specialist. My experience in security project management, software development, secure coding and
               DevSecOps implementation enables me to fortify systems against cyber threats and ensure data security.
             </p>
